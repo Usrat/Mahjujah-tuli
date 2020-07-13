@@ -1,0 +1,21 @@
+*{margin: 0px;padding: 0px;}
+.main{
+	width:1400px;height: auto; 
+}
+.banner{height: 80px;width: 100%;
+background:#9D9DBB; }
+.bannerleft{width:20%;height: auto;
+	margin-left:20%;     }
+	.bannerright{float:right;
+		width:79%;
+
+}
+.bannerright ul{text-decoration: none;
+}
+.bannerright ul li{list-style: none;
+margin-right:0px;color: white;
+padding-right: 10px;overflow: hidden;
+float: left;padding: 0px;}
+.bannerright ul li a{text-decoration:none;
+color: white;}
+
